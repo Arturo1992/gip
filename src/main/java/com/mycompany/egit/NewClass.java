@@ -11,4 +11,6 @@ package com.mycompany.egit;
  */
 public class NewClass {
     
+   public String mensaje="soy puto";
+    
 }
